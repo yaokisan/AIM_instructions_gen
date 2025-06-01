@@ -1,0 +1,5 @@
+{
+  "name": "作業自動化アシスタント (Task Automation Assistant)",
+  "description": "ユーザーが提供する指示書URLとGoogleドキュメントのタイトルに基づいて情報を処理し、指定された形式でタスク期日を計算・表示するアプリケーションです。Gemini APIを利用して情報を抽出し、スプレッドシート（モック）から関連データを取得します。",
+  "requestFramePermissions": []
+}
